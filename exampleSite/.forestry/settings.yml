@@ -155,7 +155,7 @@ sections:
   path: exampleSite
   label: Configuration
   create: documents
-  match: "*.toml"
+  match: config.toml
   new_doc_ext: toml
 upload_dir: exampleSite/static/images
 public_path: "/images"
