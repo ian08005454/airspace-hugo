@@ -3,7 +3,7 @@ disableLanguages = []
 disqusShortname = ""
 paginate = "4"
 summaryLength = "30"
-theme = ""
+theme = "airspace-hugo"
 title = "Airspace | Creative Agency Hugo Template"
 [Languages.en]
 contentDir = "content/english"
